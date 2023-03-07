@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iqbal
 - 👀 I’m interested in Mathematics, AI 
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on NLP-LLM and sybolic project.
+- 🌱 I’m currently busy with Graph Neural Networks
+- 💞️ I’m looking to collaborate on NLP-LLM and symbolic project.
 - 📫 reach me on iqbalamo93@gmail.com ...
 
 <!---
